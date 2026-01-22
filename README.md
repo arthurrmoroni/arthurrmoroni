@@ -19,4 +19,4 @@ Junior QA Engineer focused on manual and automated testing.
 ### 🌍 Looking for
 Junior QA / QA Engineer opportunities (Portugal / Remote)
 
-📫 Contact: LinkedIn | Email
+📫 Contact: Email arthurmoronisud@gmail.com 
