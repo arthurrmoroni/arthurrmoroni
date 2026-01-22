@@ -1,11 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Arthur
 
-My name is Arthur Moroni, i'm 22 years old! 
+Junior QA Engineer focused on manual and automated testing.
 
-- 🔭 I’m currently working on my future 
-- 🌱 I’m currently learning quality assurance automations 
-- 👯 I’m looking to collaborate on real projects
-- 🤔 I’m looking for help with experience and some tipes in qa world. I'm open to somekind of internship.
-- 💬 Ask me about anything about quality assurance 
-- 📫 How to reach me: arthurmoroniphyton@gmail.com
-- ⚡ Fun fact: I love studying with classical music in the background.
+### 🔧 Tech Stack
+- Playwright (E2E)
+- API Testing (Postman, Newman)
+- CI/CD with GitHub Actions
+- JavaScript / TypeScript
+- Basic Python
+
+### 📌 Featured Projects
+- 🔹 **Web E2E Testing with Playwright**
+  Automated critical flows with CI, reports and traces.
+
+- 🔹 **API Contract Testing**
+  API validation using Postman + Newman with CI integration.
+
+### 🌍 Looking for
+Junior QA / QA Engineer opportunities (Portugal / Remote)
+
+📫 Contact: LinkedIn | Email
